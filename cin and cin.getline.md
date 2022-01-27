@@ -19,6 +19,8 @@ cout<<"Output: "<<name<<endl;
 }
 ```
 Output
+![image](https://user-images.githubusercontent.com/74251229/151370865-df75b047-925b-4ba5-8744-1a28514b5865.png)
+
 ```
 #include <iostream>
 using namespace std;
@@ -31,6 +33,8 @@ cout<<"Output: "<<name<<endl;
 ```
 
 Output
+![image](https://user-images.githubusercontent.com/74251229/151370911-198c1b99-5c03-4eb5-82df-b1a013130318.png)
+
 
 ### Now Question is why this is happened?
 Because cin does not take input after it sees any space, any tab, any new line but cin.getline stops taking input when it sees any delimiter i.e default delimiter is \n (new line).
@@ -46,6 +50,8 @@ cout<<"Output: "<<name<<endl;
 }
 ```
 Output
+![image](https://user-images.githubusercontent.com/74251229/151370944-7a311d40-c2dd-4d27-a558-02706571f05c.png)
+
 ```
 #include <iostream>
 using namespace std;
@@ -57,6 +63,7 @@ cout<<"Output: "<<name<<endl;
 }
 ```
 Output
+![image](https://user-images.githubusercontent.com/74251229/151370971-de765a73-f70e-459e-a976-21cad47a5477.png)
 
 So, now I hope you have got it: 
 so every character array automatically puts '\0' at last index after our string is complete. 
@@ -72,6 +79,8 @@ cout<<"Output: "<<name<<endl;
 }
 ```
 Output
+![image](https://user-images.githubusercontent.com/74251229/151371009-11c7960e-1a03-4199-9325-34ac7c2ce8c8.png)
+
 ### Simple Program to explain the problems that we usually get into while using both cin and cin.getline
 ```
 #include <iostream>
