@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Priyanka Jhamb, 3rd year student in Guru Nanak Dev Engineering College, Ludhiana. 
 <!--
 **PriyankaJhamb/PriyankaJhamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
