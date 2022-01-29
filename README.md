@@ -20,13 +20,15 @@
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/sql.png?raw=true" height="60" width="60">
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/php.png?raw=true" height="60" width="60">
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/django.jpg?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/latex.png?raw=true" height="60" width="60">
 <br>
 
-<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/vs.png?raw=true" height="60" width="60"> 
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/pycharm.jpeg?raw=true" height="60" width="60">
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/android.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/tex.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/sqlite.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/oracle.png?raw=true" height="60" width="60">
 
 </div>
 
