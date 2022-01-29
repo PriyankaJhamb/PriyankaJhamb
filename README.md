@@ -12,19 +12,18 @@
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>  
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/c.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
-
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/cpp.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/bootstrap.png?raw=true" height="60" width="60">
 <br>
 
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60"
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/css.png?raw=true" height="60" width="60">
 
 </div>
 
