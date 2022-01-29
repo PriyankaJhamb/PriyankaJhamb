@@ -3,7 +3,7 @@
  I am a content writer, a enthusiast programmer and social person. 
 - I am Priyanka Jhamb, 3rd year CSE student in Guru Nanak Dev Engineering College, Ludhiana.
 - ❤️ I love to take challenges and fulfil my responsibilities. 
-- 🔭 I’m currently working on my Data Structure and Algorithm Skills
+- 🔭 I’m currently working on my Data Structure and Algorithm Skills.
 - 🌱 I like to spend time with nature and also with myself.
 - My daily habit includes doing yoga, candle meditation, doing eye exercises and doing journaling.
 
