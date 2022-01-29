@@ -40,6 +40,8 @@
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <div align="center">
+ 
+ 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/priyanka-jhamb-81323b1a9)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/beautiful_life_journey/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/priyanka.jhamb.16/)
@@ -52,6 +54,7 @@
 <!-- Footer Not working -->
 <!-- <img src="https://drive.google.com/file/d/1KuHSWDgFyVN3YA8Q3Hdvk9dPuQ4Uj22F/view?usp=sharing" alt=""> -->
 
+ 
 </div>
 
 <!--
