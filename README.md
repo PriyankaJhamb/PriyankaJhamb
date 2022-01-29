@@ -30,7 +30,7 @@
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/sqlite.png?raw=true" height="60" width="60">
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/oracle.png?raw=true" height="60" width="60">
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/codeblocks.png?raw=true" height="60" width="60">
-
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/githubdesktop.png?raw=true" height="60" width="60">
 </div>
 
 
