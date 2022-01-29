@@ -8,11 +8,11 @@
 - 🍂 My daily habit includes doing yoga, going for a walk, candle meditation, eye exercises, reading newspaper, my hobby and journaling.
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on Design Thinking, Web Development, App Development and Data Science Projects.
-- 🤔 I’m looking to joining the NGO.
+- 🤔 I’m looking to joining the NGO and satvic movement.
 - 💬 Ask me about anything.
 - 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/priyanka-jhamb-81323b1a9)
 - 😄 Pronouns: she/her
-<!-- - ⚡ Fun fact:  -->
+- ⚡ Fun fact: If I think that my life is beautiful, I try to see good things. But if I think that my life is too bad, I automatically try to see bad things in my life.
 
 <div align="center">
 
