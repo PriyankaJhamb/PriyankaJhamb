@@ -6,7 +6,13 @@
 - 🌱 I like to spend time with nature and also with myself.
 - 🔭 I’m currently doing my internship of Data Science from Sabudh Foundation.
 - 🍂 My daily habit includes doing yoga, going for a walk, candle meditation, eye exercises, reading newspaper, my hobby and journaling.
-
+- 🌱 I’m currently learning Data Science.
+- 👯 I’m looking to collaborate on Design Thinking, Web Development, App Development and Data Science Projects.
+- 🤔 I’m looking to joining the NGO.
+- 💬 Ask me about anything.
+- 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/priyanka-jhamb-81323b1a9)
+- 😄 Pronouns: she/her
+<!-- - ⚡ Fun fact:  -->
 
 <div align="center">
 
@@ -40,7 +46,7 @@
  
  <br/>
 
-<h2 align="center">📫 How to reach me:          <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center" > Reach me on:          <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <div align="center">
  
