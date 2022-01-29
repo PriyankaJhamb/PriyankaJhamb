@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I am a content writer, a enthusiast programmer and social person. 
+ I am a content writer, an enthusiast programmer and social person. 
 - I am Priyanka Jhamb, 3rd year CSE student in Guru Nanak Dev Engineering College, Ludhiana.
 - ❤️ I love to take challenges and fulfil my responsibilities. 
 - 🔭 I’m currently working on my Data Structure and Algorithm Skills.
@@ -21,6 +21,8 @@
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/php.png?raw=true" height="60" width="60">
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/django.jpg?raw=true" height="60" width="60">
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/latex.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/dart.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/flutter.png?raw=true" height="60" width="60">
 <br>
 
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/vs.png?raw=true" height="60" width="60"> 
