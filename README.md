@@ -40,7 +40,7 @@
  
  <br/>
 
-<h2 align="center">📫 How to reach me: <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">📫 How to reach me:          <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <div align="center">
  
