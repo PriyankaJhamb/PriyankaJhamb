@@ -17,6 +17,7 @@
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/html.png?raw=true" height="60" width="60">
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/bootstrap.png?raw=true" height="60" width="60">
+<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/django.jpg?raw=true" height="60" width="60">
 <br>
 
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/vs.png?raw=true" height="60" width="60">
