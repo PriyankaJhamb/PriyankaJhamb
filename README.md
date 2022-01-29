@@ -4,8 +4,9 @@
 - ❤️ I love to take challenges and fulfil my responsibilities. 
 - 🔭 I’m currently working on my Aptitude and Data Structure and Algorithm Skills.
 - 🌱 I like to spend time with nature and also with myself.
-- 🍂 My daily habit includes doing yoga, going for a walk, candle meditation, eye exercises, reading newspaper, my hobby and journaling.
 - 🔭 I’m currently doing my internship of Data Science from Sabudh Foundation.
+- 🍂 My daily habit includes doing yoga, going for a walk, candle meditation, eye exercises, reading newspaper, my hobby and journaling.
+
 
 <div align="center">
 
@@ -39,7 +40,7 @@
  
  <br/>
 
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">📫 How to reach me: <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <div align="center">
  
