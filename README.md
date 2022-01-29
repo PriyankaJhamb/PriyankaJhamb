@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I am a content writer, an enthusiast programmer and social person. 
+ <h2 align="center">I am a content writer, an enthusiast programmer and social person. </h2>
 - ❤️ I love to take challenges and fulfil my responsibilities. 
 - 🔭 I’m currently working on my Aptitude and Data Structure and Algorithm Skills.
 - 🌱 I like to spend time with nature and also with myself.
