@@ -5,7 +5,7 @@
 - ❤️ I love to take challenges and fulfil my responsibilities. 
 - 🔭 I’m currently working on my Data Structure and Algorithm Skills.
 - 🌱 I like to spend time with nature and also with myself.
-- My daily habit includes doing yoga, candle meditation, doing eye exercises and doing journaling.
+- 🍂 My daily habit includes doing yoga, going for a walk, candle meditation, eye exercises and journaling..
 
 
 <div align="center">
