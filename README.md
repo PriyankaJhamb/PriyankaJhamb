@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Priyanka Jhamb, 3rd year student in Guru Nanak Dev Engineering College, Ludhiana. 
+I am a content writer, a enthusiast programmer and social person. I love to take challenges and fulfil my responsibilities. I love to do yoga and maintain my diet. 
 <!--
 **PriyankaJhamb/PriyankaJhamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
