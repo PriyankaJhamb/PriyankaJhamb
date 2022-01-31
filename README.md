@@ -50,12 +50,15 @@
 <h2 align="center" > Reach me on:          <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <div align="center">
- 
- 
+ [<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/linkedin.png?raw=true" height="60" width="60">](https://www.linkedin.com/in/priyanka-jhamb-81323b1a9)
+[<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/stackoverflow.png?raw=true" height="60" width="60">](https://www.instagram.com/beautiful_life_journey/)
+[<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/instagram.png?raw=true" height="60" width="60">](https://www.facebook.com/priyanka.jhamb.16/)
+[<img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/facebook.png?raw=true" height="60" width="60">](https://stackoverflow.com/users/15264654/priyanka)
+<!--  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/priyanka-jhamb-81323b1a9)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/beautiful_life_journey/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/priyanka.jhamb.16/)
-[<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">](https://stackoverflow.com/users/15264654/priyanka)
+[<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">](https://stackoverflow.com/users/15264654/priyanka) -->
 <!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]() -->
 
 
