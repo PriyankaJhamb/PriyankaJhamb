@@ -10,5 +10,10 @@
 ### Similarity between both
 Both interpreters and compilers (like any other program) are written in some high-level programming language (which may be different from the language they accept) and they are translated into machine code.
 
+### Platform Dependent
+### Machine Dependent
+
+
+
 ## Reference Link: 
 [https://lambda.uta.edu/cse5317/notes/node3.html](https://lambda.uta.edu/cse5317/notes/node3.html)
