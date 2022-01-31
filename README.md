@@ -50,10 +50,10 @@
 <h2 align="center" > Reach me on:          <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/priyanka-jhamb-81323b1a9"> <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/linkedin.png?raw=true" height="60" width="60"></a>
-<a href="https://www.instagram.com/beautiful_life_journey/"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/stackoverflow.png?raw=true" height="60" width="60"></a>
-<a href="https://www.facebook.com/priyanka.jhamb.16/"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/instagram.png?raw=true" height="60" width="60"></a>
-<a href="https://stackoverflow.com/users/15264654/priyanka"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/facebook.png?raw=true" height="60" width="60"></a>
+ <a href="https://www.linkedin.com/in/priyanka-jhamb-81323b1a9"> <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/linkedin.png?raw=true" height="80" width="100"></a>
+<a href="https://www.instagram.com/beautiful_life_journey/"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/instagram.png?raw=true" height="60" width="60"></a>
+<a href="https://www.facebook.com/priyanka.jhamb.16/"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/facebook.png?raw=true" height="100" width="100"></a>
+<a href="https://stackoverflow.com/users/15264654/priyanka"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/stackoverflow.png?raw=true" height="60" width="200"></a>"
 <!--  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/priyanka-jhamb-81323b1a9)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/beautiful_life_journey/)
