@@ -14,7 +14,8 @@ Both interpreters and compilers (like any other program) are written in some hig
 Example: C language code executable file can only run on Windows, not on Linux.
 
 ### Machine Dependent
-Example: Intermediate Code (having byte codes) can be run on any machine.
+Example: Intermediate Code (having byte codes) can be run on any machine.  
+
 Machine: it relates to architecture or configuration of the machine that one is using.
 
 
