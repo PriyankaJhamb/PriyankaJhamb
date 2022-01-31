@@ -53,7 +53,7 @@
  <a href="https://www.linkedin.com/in/priyanka-jhamb-81323b1a9"> <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/linkedin.png?raw=true" height="40" width="40"></a>
 <a href="https://www.instagram.com/beautiful_life_journey/"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/instagram.png?raw=true" height="40" width="40"></a>
 <a href="https://www.facebook.com/priyanka.jhamb.16/"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/facebook.png?raw=true" height="40" width="40"></a>
-<a href="https://stackoverflow.com/users/15264654/priyanka"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/stackoverflow.png?raw=true" height="40" width="1600"></a>"
+<a href="https://stackoverflow.com/users/15264654/priyanka"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/stackoverflow.png?raw=true" height="40" width="160"></a>"
 <!--  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/priyanka-jhamb-81323b1a9)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/beautiful_life_journey/)
