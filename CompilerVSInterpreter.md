@@ -5,7 +5,7 @@
 | Intermediate Code | Generated | will not be generated |
 | Speed | Fast | Slow because it processes and interprets each statement in a program as many times as the number of the evaluations of this statement. For example, when a for-loop is interpreted, the statements inside the for-loop body will be analyzed and evaluated on every loop step  |
 | Space Required | More | Less |
-| Machine InDependent/Dependent | Independent | Dependent |
+| Machine Independent/Dependent | Independent | Dependent |
 
 ### Similarity between both
 Both interpreters and compilers (like any other program) are written in some high-level programming language (which may be different from the language they accept) and they are translated into machine code.
