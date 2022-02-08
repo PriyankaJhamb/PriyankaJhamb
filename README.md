@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my Aptitude and Data Structure and Algorithm Skills.
 - 🌱 I like to spend time with nature and also with myself.
 - 🔭 I’m currently doing my internship of Data Science from Sabudh Foundation.
-- 🍂 My daily habit includes doing yoga, going for a walk, candle meditation, eye exercises, reading newspaper, my hobby and journaling.
+<!-- - 🍂 My daily habit includes doing yoga, going for a walk, candle meditation, eye exercises, reading newspaper, my hobby and journaling. -->
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on Design Thinking, Web Development, App Development and Data Science Projects.
 - 🤔 I’m looking to joining the NGO and satvic movement.
