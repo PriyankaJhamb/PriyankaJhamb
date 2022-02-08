@@ -107,4 +107,6 @@ INPUT
 Strawberry
 
 
+### References Section:
+[https://pediaa.com/](https://pediaa.com/what-is-the-difference-between-getline-and-cin/#:~:text=The%20main%20difference%20between%20getline,an%20instance%20of%20istream%20class.&text=Each%20header%20file%20has%20functions,these%20functions%20in%20their%20programs.)
 
