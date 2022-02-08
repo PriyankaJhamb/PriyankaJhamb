@@ -84,8 +84,11 @@ Output
 
 |  cin | cin.getline() |
 |------|---------------|
-| When it encounters space, tab or new line, it stops to take input into the buffer for particular variable | It stops when it encounters optional delimiter. By default, optional delimiter is new line '\n' |
+| When it encounters space, tab or new line, it stops to take input into the buffer for particular variable. | It stops when it encounters optional delimiter. By default, optional delimiter is new line '\n'. |
 | It does not take any argument. | It takes an argument of length which we can give any but less than (variable_array_length +1) only. |
+| cin is basically an object in C++ of the class istream that accepts input from the standard input device. | getline is a standard library function that is used to input a string or reads a line from input stream |
+
+
 
 
 
