@@ -81,6 +81,15 @@ cout<<"Output: "<<name<<endl;
 Output
 ![image](https://user-images.githubusercontent.com/74251229/151371009-11c7960e-1a03-4199-9325-34ac7c2ce8c8.png)
 
+
+|  cin | cin.getline() |
+|------|---------------|
+| When it encounters space, tab or new line, it stops to take input into the buffer for particular variable | It stops when it encounters optional delimiter. By default, optional delimiter is new line '\n' |
+| It does not take any argument. | It takes an argument of length which we can give any but less than (variable_array_length +1) only. |
+
+
+
+
 ### Simple Program to explain the problems that we usually get into while using both cin and cin.getline
 ```
 #include <iostream>
@@ -96,3 +105,6 @@ cout<<nameother<<endl;
 Firstly, Let us discuss…After we will run this program, what we will found:)
 INPUT
 Strawberry
+
+
+
