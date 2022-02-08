@@ -15,6 +15,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: If I think that my life is beautiful, I try to see good things. But if I think that my life is too bad, I automatically try to see bad things in my life.
 
+<!-- ## Some blogs of mine:) -->
 <div align="center">
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>  
