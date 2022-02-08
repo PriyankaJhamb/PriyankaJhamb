@@ -82,6 +82,9 @@ Output
 ![image](https://user-images.githubusercontent.com/74251229/151371009-11c7960e-1a03-4199-9325-34ac7c2ce8c8.png)
 
 
+## Differnce in tabular form
+
+
 |  cin | cin.getline() |
 |------|---------------|
 | When it encounters space, tab or new line, it stops to take input into the buffer for particular variable. | It stops when it encounters optional delimiter. By default, optional delimiter is new line '\n'. |
@@ -110,6 +113,6 @@ INPUT
 Strawberry
 
 
-### References Section:
+## References Section:
 [https://pediaa.com/](https://pediaa.com/what-is-the-difference-between-getline-and-cin/#:~:text=The%20main%20difference%20between%20getline,an%20instance%20of%20istream%20class.&text=Each%20header%20file%20has%20functions,these%20functions%20in%20their%20programs.)
 
