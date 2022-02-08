@@ -97,6 +97,36 @@ Output
 
 
 ### Simple Program to explain the problems that we usually get into while using both cin and cin.getline
+
+```
+#include <iostream>
+#include<limits>
+using namespace std;
+int main() {
+char name[2], nameother[10];
+cout<<"Program starts here: "<<endl;
+cout<<"Enter your name: "<<endl;
+cin>>name;
+cout<<"Your name is : "<<name<<endl;
+}
+```
+![image](https://user-images.githubusercontent.com/74251229/153026692-c7e014ce-2be8-41c2-866f-1ef4edcc5350.png)
+```
+#include <iostream>
+// #include<limits>
+using namespace std;
+int main() {
+char name[2], nameother[10];
+cout<<"Program starts here: "<<endl;
+cout<<"Enter your name: "<<endl;
+cin>>name;
+cout<<"Your name is : "<<name<<endl;
+cout<<"Enter your nick name: "<<endl;
+cin.getline(nameother, 10);
+cout<<"Your nick name is: "<<nameother<<endl;
+}
+```
+
 ```
 #include <iostream>
 using namespace std;
