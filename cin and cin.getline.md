@@ -82,7 +82,7 @@ Output
 ![image](https://user-images.githubusercontent.com/74251229/151371009-11c7960e-1a03-4199-9325-34ac7c2ce8c8.png)
 
 
-## Differnce in tabular form
+## Difference in tabular form:
 
 
 |  cin | cin.getline() |
