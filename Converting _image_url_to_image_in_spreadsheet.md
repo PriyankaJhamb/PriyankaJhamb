@@ -13,6 +13,8 @@
 - 33 is the length of id
 - 1 is mode 
 
+#### if you want to do this for all rows, just drag down after doing for one row, it will automatically take the rows number.
+
 ### Reference:
 [https://youtu.be/6w7bPSCPHns](https://youtu.be/6w7bPSCPHns)
 
