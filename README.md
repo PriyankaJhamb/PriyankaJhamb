@@ -17,6 +17,7 @@
 
 ## Some blogs of mine:)
 [Differences Between Compiler and Interpreter](https://priyankajhamb.github.io/PriyankaJhamb/CompilerVSInterpreter.html)
+[Difference between using cin and cin.getline](https://priyankajhamb.github.io/PriyankaJhamb/cin%20and%20cin.getline.html)
 
 
 <div align="center">
