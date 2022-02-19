@@ -111,6 +111,7 @@ cout<<"Your name is : "<<name<<endl;
 }
 ```
 ![image](https://user-images.githubusercontent.com/74251229/153026692-c7e014ce-2be8-41c2-866f-1ef4edcc5350.png)
+<!--
 ```
 #include <iostream>
 // #include<limits>
@@ -141,7 +142,7 @@ cout<<nameother<<endl;
 Firstly, Let us discuss…After we will run this program, what we will found:)
 INPUT
 Strawberry
-
+-->
 
 ## References Section:
 [https://pediaa.com/](https://pediaa.com/what-is-the-difference-between-getline-and-cin/#:~:text=The%20main%20difference%20between%20getline,an%20instance%20of%20istream%20class.&text=Each%20header%20file%20has%20functions,these%20functions%20in%20their%20programs.)
