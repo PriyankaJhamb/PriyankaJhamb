@@ -22,6 +22,10 @@
 
 - [ Converting url to images display in spreadsheet ](https://priyankajhamb.github.io/PriyankaJhamb/Converting%20_image_url_to_image_in_spreadsheet.html)
 
+### MY favorite blogs:
+- [17 Terminal Commands ](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/)
+
+
 
 <div align="center">
 
@@ -51,8 +55,6 @@
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/jupyter.png?raw=true" height="60" width="80">
 </div>
 
-### MY favorite blogs:
-- [17 Terminal Commands ](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/)
 
  
  <br/>
