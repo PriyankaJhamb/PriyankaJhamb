@@ -51,6 +51,8 @@
 <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/jupyter.png?raw=true" height="60" width="80">
 </div>
 
+### MY favorite blogs:
+- [17 Terminal Commands ](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/)
 
  
  <br/>
