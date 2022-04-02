@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=006400&size=29&multiline=true&width=700&lines=Welcome+To+Priyanka+Jhamb's+GitHub+Profile)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=006400&size=29&multiline=true&width=700&lines=Welcome+To+Priyanka+Jhamb's+GitHub+Profile)](https://git.io/typing-svg) -->
 
 <h1 align="center">Hi 👋, I'm Priyanka Jhamb</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3> 
