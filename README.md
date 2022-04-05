@@ -37,6 +37,7 @@
 - [Differences Between Compiler and Interpreter](https://priyankajhamb.github.io/PriyankaJhamb/CompilerVSInterpreter.html)
 - [Difference between using cin and cin.getline](https://priyankajhamb.github.io/PriyankaJhamb/cin%20and%20cin.getline.html)
 - [ Converting url to images display in spreadsheet ](https://priyankajhamb.github.io/PriyankaJhamb/Converting%20_image_url_to_image_in_spreadsheet.html)
+- [str.substr(start_index, end_index) function behaves differently when used with different approaches](https://priyankajhamb.github.io/PriyankaJhamb/str.substr()function.html)
 
 ### MY favorite blogs:
 - [17 Terminal Commands ](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/)
