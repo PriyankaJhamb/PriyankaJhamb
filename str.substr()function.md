@@ -29,3 +29,4 @@ terminate called after throwing an instance of 'std::out_of_range'
 Aborted (core dumped)
   
  
+#### [Also discussion started at stackoverflow for this](https://stackoverflow.com/questions/71756986/str-substr-function-behavior-is-different-when-starting-index-is-0)
