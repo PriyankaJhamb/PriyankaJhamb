@@ -16,13 +16,14 @@ cout<<"str.substr(1, 1): "<<str.substr(1, 1)<<endl; // r
 ```
 cout<<"str.substr(0, -5): "<<str.substr(0, -5)<<endl;
 ```
-it will print whole string if end index will be negative
+it will print whole string if end index will be negative.
 
 and 
 ```
 cout<<"str.substr(-1, 5): "<<str.substr(-1, 5)<<endl;
 ``` 
-it will gives an error i.e 
+it will gives an error of out of range if starting index is negative 
+i.e 
 terminate called after throwing an instance of 'std::out_of_range'
   what():  basic_string::substr: __pos (which is 18446744073709551615) > this->size() (which is 8)
 Aborted (core dumped)
