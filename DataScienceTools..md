@@ -13,6 +13,10 @@ References:
   * =AVERAGE(F2:F5)
   * =IF(logic, [value if true], [value if false])
   * =COUNTIF(range, criteria)
+  * = VLOOKUP(lookup_value, range, column_index)
+  * = MATCH(loop_up value, loopup_array, [match type])
+  * = CONCATENATE(text1, text2)
+  * =INDEX(range, MATCH(loop_up value, loopup_array, [match type]), column number) 
 
 References:
 [https://youtu.be/hrbaL0EGwN0](https://youtu.be/hrbaL0EGwN0)
