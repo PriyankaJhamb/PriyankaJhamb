@@ -71,6 +71,7 @@
  <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/canva.png?raw=true" height="60" width="80">
  <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/linux.jpeg?raw=true" height="60" width="80">
    <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/markdown.png?raw=true" height=70" width="60">
+   <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/power bi.png?raw=true" height=70" width="60">
 </div>
 <br/>
 <br/>
@@ -120,6 +121,7 @@
 <a href="https://www.instagram.com/beautiful_life_journey/"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/instagram.png?raw=true" height="40" width="40"></a>
 <a href="https://www.facebook.com/priyanka.jhamb.16/"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/facebook.png?raw=true" height="40" width="40"></a>
 <a href="https://stackoverflow.com/users/15264654/priyanka"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/stackoverflow.png?raw=true" height="40" width="160"></a>"
+
 
 
 
