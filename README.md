@@ -71,7 +71,7 @@
  <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/canva.png?raw=true" height="60" width="80">
  <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/linux.jpeg?raw=true" height="60" width="80">
    <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/markdown.png?raw=true" height=70" width="60">
-   <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/power bi.png?raw=true" height=70" width="60">
+   <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/power bi.png?raw=true" height=70" width="80">
 </div>
 <br/>
 <br/>
