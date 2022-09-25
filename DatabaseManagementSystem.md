@@ -1,3 +1,5 @@
+## Super Key -> Candidate Key -> Primary Key
+
 ## [Data Normalisation and Denormalisation](https://youtu.be/W_5vn8TBLys)
 
 | S.No. | Normalisation | Denormalisation |
@@ -45,4 +47,49 @@ One is having both R.No and Name columns and 2nd is having both R.No. and course
 | 2 | C |
 
 #### 2nd Normal Form
+Let the functional Dependency is 
+- AB-> C
+- AB Candidate Key
+- C Non Unique attribute
+
+So, it means proper subset of AB i.e A and B cannot make partial functional dependency with C alonely.
+- A-> C
+- B-> C
+- cannot be functional dependencies.
+
+#### 3rd Normal Form
+
+Let X->Y->Z
+where X is Candidate key
+,Y is Non Prime
+,Z is Non Prime 
+
+Here Non prime is determining non prime, although, X is indirectly determining Z (Transitive Dependency).
+It should not be there.
+
+#### BCNF
+
+Let the functional dependency is X-> Y. Here X should be super key or candidate key.
+
+#### 4th Normal Form [(Link)](https://www.javatpoint.com/dbms-forth-normal-form)
+#### 5th Normal Form [(Link)](https://www.javatpoint.com/dbms-fifth-normal-form)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
