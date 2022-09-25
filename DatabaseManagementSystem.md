@@ -8,5 +8,5 @@
 | 4 | Optimised Disk Usuage | Wastage of Disk Space |
 | 5 | More Joins needed while retriving of the data | Less Joins |
 | 6 | Small and Many Tables |  Bigger and Less Tables |
-| 7 | Application: OLTP | OLAP |
+| 7 | Application: OLTP (Where resouces are less)| OLAP (Where resources are easily accessible like in Cloud Computing era) |
  
