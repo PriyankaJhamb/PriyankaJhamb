@@ -10,4 +10,4 @@ The main two services are provided by the cloud service provider:)
 
 ### Ideally without the use of cloud computing, all responsibilities need to be complete by the company which includes managing physical softwares, physical storage, power, cooling, security and network connectivity.
 ### Shared Responsibility Model between Customer and the cloud service provider.
-![image](https://user-images.githubusercontent.com/74251229/193386715-3e69e999-9f99-42f1-8891-7c754e1cf953.png)
+![image](https://user-images.githubusercontent.com/74251229/193389481-9d00fe1b-b855-4eb2-b3e4-3eb6812f8122.png)
