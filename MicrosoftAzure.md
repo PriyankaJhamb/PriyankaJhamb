@@ -1,23 +1,15 @@
 
 ## Microsoft Azure Fundamentals
 - Microsoft Azure is a cloud computing platform. 
+- Temporary Azure portal environment called the sandbox.
+- The main two services are provided by the cloud service provider: Compute Power & Storage.
 - It is a consumption-based model. (works on operational expenditure rather than on capital expenditure).
-#### This consumption-based model has many benefits, including:
+**This consumption-based model has many benefits, including:**
 1. No upfront(paid in advance) costs.
 2. No need to purchase and manage costly infrastructure that users might not use to its fullest potential.
 3. The ability to pay for more resources when they're needed.
 4. The ability to stop paying for resources that are no longer needed.
 
-#### Temporary Azure portal environment called the sandbox.
-
-#### The main two services are provided by the cloud service provider:)
-1. Compute Power
-2. Storage
-3. Application
-4. Platform
-5. Messaging
-
-### Ideally without the use of cloud computing, all responsibilities need to be complete by the company which includes managing physical softwares, physical storage, power, cooling, security and network connectivity.
 ### Shared Responsibility Model between Customer and the cloud service provider.
 ![image](https://user-images.githubusercontent.com/74251229/193389481-9d00fe1b-b855-4eb2-b3e4-3eb6812f8122.png)
 
