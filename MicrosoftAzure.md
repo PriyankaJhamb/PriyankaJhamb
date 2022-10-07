@@ -40,7 +40,7 @@ Scenarios:
 - pay as per use(for the services),
 - managed by the third parties(cloud service provider)
 
-##### Fundamental Characteristic of public cloud is Multitenancy.(Multi-tenancy is an architecture in which a single instance of a software application serves multiple customers.)
+**Fundamental Characteristic of public cloud is Multitenancy.(Multi-tenancy is an architecture in which a single instance of a software application serves multiple customers.)**
 Examples: Google App Engine, Dropbox etc.
 ![image](https://user-images.githubusercontent.com/74251229/193392848-79592080-7836-4a85-b421-a99268433c43.png)
 
