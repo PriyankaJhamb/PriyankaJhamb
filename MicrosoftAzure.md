@@ -1,10 +1,16 @@
 
 ## Microsoft Azure Fundamentals
-Microsoft Azure is a cloud computing platform. 
+- Microsoft Azure is a cloud computing platform. 
+- It is a consumption-based model. (works on operational expenditure rather than on capital expenditure).
+#### This consumption-based model has many benefits, including:
+1. No upfront(paid in advance) costs.
+2. No need to purchase and manage costly infrastructure that users might not use to its fullest potential.
+3. The ability to pay for more resources when they're needed.
+4. The ability to stop paying for resources that are no longer needed.
 
-Temporary Azure portal environment called the sandbox.
+#### Temporary Azure portal environment called the sandbox.
 
-The main two services are provided by the cloud service provider:)
+#### The main two services are provided by the cloud service provider:)
 1. Compute Power
 2. Storage
 3. Application
@@ -91,5 +97,22 @@ Examples: Google App Engine, Dropbox etc.
 - set of technologies that help to manage any type of cloud environment(it can be public, private or hybrid).
 
 ### Azure VMware Solution
-it helps to run VMware workloads, that is previously in private cloud environment, in Azure.
+It helps to run VMware workloads, that is previously in private cloud environment, in Azure.
+
+
+### Benefits of Cloud
+1. Scalability (ability to handle demand)
+- Vertical Scaling: power/capabilities of resources can be scaled up (either automatically or manually) or scaled down as per requirement.
+- Horizontal Scaling: number of resources/ virtual machines/ containers can be scaled out (increase) or scaled in (decrease).
+
+2. Availability (High Uptime)
+- available (Uptime)
+- Not availbale (Downtime)
+It is not possible to have 100 percent uptime because when we experienced a steep jump in demand, we need to use back up servers but we need to integrate which takes time atleast 1 minute. but we can have 99.9 percent.
+
+For each service, there is a service level agreement which can be different for each service provided by a cloud service provider.
+
+
+3. 
+
 
