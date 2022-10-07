@@ -81,3 +81,15 @@ Examples: Google App Engine, Dropbox etc.
 ##### Disadvantages:
 1. consistent maintainence cost
 2. Increased cost as compare to public loud.
+
+### Multi-Cloud
+
+- In which 2 or more cloud environments are involved. 
+- It may possible that you are using one service and you want to migrate to other service provider.
+
+### Azure Arc
+- set of technologies that help to manage any type of cloud environment(it can be public, private or hybrid).
+
+### Azure VMware Solution
+it helps to run VMware workloads, that is previously in private cloud environment, in Azure.
+
