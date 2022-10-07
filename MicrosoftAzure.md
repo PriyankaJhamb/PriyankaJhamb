@@ -131,12 +131,12 @@ Cloud service providers provides the software updates to meet corporate standard
 
 7. Manageability:
 Two types of manageability for cloud computing are:
-  1. Management of the cloud (managing cloud resources)
+  I) Management of the cloud (managing cloud resources)
   - Automatically scale resource deployment based on need.
   - Deploy resources based on a preconfigured template, removing the need for manual configuration.
   - Monitor the health of resources and automatically replace failing resources.
   - Receive automatic alerts based on configured metrics, so you’re aware of performance in real time.
-  2. Management in the cloud (managing the cloud environment) 
+  II) Management in the cloud (managing the cloud environment) 
   - through a web portal.
   - using a command line interface
   - using APIs.
