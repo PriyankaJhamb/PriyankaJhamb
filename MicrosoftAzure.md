@@ -101,11 +101,11 @@ It helps to run VMware workloads, that is previously in private cloud environmen
 
 
 ### Benefits of Cloud
-1. Scalability (ability to handle demand)
+1. Scalability (ability to handle demand):
 - Vertical Scaling: power/capabilities of resources can be scaled up (either automatically or manually) or scaled down as per requirement. e.g adding more CPU/RAM to the virtual machine or lowering the CPU/RAM specifications. 
 - Horizontal Scaling: number of resources/ virtual machines/ containers can be scaled out (increase) or scaled in (decrease). 
 
-2. Availability (High Uptime)
+2. Availability (High Uptime):
 - available (Uptime)
 - Not availbale (Downtime)
 
@@ -115,11 +115,32 @@ It is not possible to have 100 percent uptime because when we experienced a stee
 For each service, there is a service level agreement which can be different for each service provided by a cloud service provider.
 
 
-3. Reliability (ability to recover from failurs and continue to function)
+3. Reliability (ability to recover from failurs and continue to function):
 Using decentralised design, the cloud naturaly supports a reliable and resilent infrastructure. With the global scale, event if one region has a catastrophic event other regions are still up and running.
 
-4. Predictability (forecasting the performance and cost)
+4. Predictability (forecasting the performance and cost):
 - Performance predictability focus on predicting the resources needed to deliver a positive experience to the customers. Autoscaling, load balancing and high availablity supports performance predictability. If you suddenly need more resources, autoscaling can deploy additional resources to meet the demand, and then scale back when the demand drops. Or if the traffic is heavily focused on one area, load balancing will help redirect some of the overload to less stressed areas.
 - Cost predictability is focused on predicting the cost of the cloud spend. With the cloud, one can monitor, analyse trends and patterns of usage, predict future cost and adjust resources as needed. Also some tools can be used to get an estimate of potential cloud spend e.g pricing calculator and total cost of ownership (TCO).
+
+5. Security: 
+- Cloud providers are typically well suited to handle things like distributed denial of service attacks etc.
+- It depends upon the security need that matches with the cloud solution. If a person wants more control on security, he can go with the infrastructure as a service and if he wants patches and maintenance taken care of automatically, platform as a service may be the best cloud strategies for him.
+
+6. Governance: 
+Cloud service providers provides the software updates to meet corporate standards and government regulatory requirements time to time. Cloud-based auditing helps flag any resource that's out of compliance with your corporate standards and provides mitigation strategies.
+
+7. Manageability:
+Two types of manageability for cloud computing are:
+1. Management of the cloud (managing cloud resources)
+Automatically scale resource deployment based on need.
+Deploy resources based on a preconfigured template, removing the need for manual configuration.
+Monitor the health of resources and automatically replace failing resources.
+Receive automatic alerts based on configured metrics, so you’re aware of performance in real time
+2. Management in the cloud (managing the cloud environment) 
+- through a web portal.
+- using a command line interface
+- using APIs.
+- using powershell
+
 
 
