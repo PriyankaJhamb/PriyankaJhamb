@@ -21,6 +21,27 @@
 ### Shared Responsibility Model between Customer and the cloud service provider.
 ![image](https://user-images.githubusercontent.com/74251229/193389481-9d00fe1b-b855-4eb2-b3e4-3eb6812f8122.png)
 
+#### IaaS (Infrastructure as a service):
+The cloud provider is responsible for maintaining the physical infrastructure and its access to the internet. You’re responsible for installation and configuration, patching and updates, and security.
+
+Scenarios:
+- Lift-and-shift migration: You’re standing up cloud resources similar to your on-prem datacenter, and then simply moving the things running on-prem to running on the IaaS infrastructure.
+- Testing and development: You have established configurations for development and test environments that you need to rapidly replicate. You can stand up or shut down the different environments rapidly with an IaaS structure, while maintaining complete control.
+
+#### PaaS (Platform as a service):
+The cloud provider is responsible for maintaining the physical infrastructure and its access to the internet, just like in IaaS. In the PaaS model, the cloud provider will also maintain the operating systems, databases, and development tools. Depending on the configuration, you or the cloud provider may be responsible for networking settings and connectivity within your cloud environment, network and application security, and the directory infrastructure.
+
+Scenarios:
+- Development framework: PaaS provides a framework that developers can build upon to develop or customize cloud-based applications. PaaS lets developers create applications using built-in software components. 
+- Analytics or business intelligence: Tools provided as a service with PaaS allow organizations to analyze and mine their data, finding insights and patterns and predicting outcomes to improve forecasting, product design decisions, investment returns, and other business decisions.
+
+#### SaaS (Software as a service):
+In a SaaS environment you’re responsible for the data that you put into the system, the devices that you allow to connect to the system, and the users that have access. Nearly everything else falls to the cloud provider. The cloud provider is responsible for physical security of the datacenters, power, network connectivity, and application development and patching.
+
+Scenarios:
+- Email and messaging.
+- Business productivity applications.
+- Finance and expense tracking.
 ### Types of Cloud Deployment Models
 #### 1. Public Cloud:
 - open to all to store and access information via internet,
@@ -131,16 +152,20 @@ Cloud service providers provides the software updates to meet corporate standard
 
 7. Manageability:
 Two types of manageability for cloud computing are:
+
   I) Management of the cloud (managing cloud resources)
   - Automatically scale resource deployment based on need.
   - Deploy resources based on a preconfigured template, removing the need for manual configuration.
   - Monitor the health of resources and automatically replace failing resources.
   - Receive automatic alerts based on configured metrics, so you’re aware of performance in real time.
+
+
   II) Management in the cloud (managing the cloud environment) 
   - through a web portal.
   - using a command line interface
   - using APIs.
   - using powershell
+
 
 
 
