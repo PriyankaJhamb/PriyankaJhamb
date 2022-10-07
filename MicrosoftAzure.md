@@ -4,6 +4,8 @@
 - Temporary Azure portal environment called the sandbox.
 - The main two services are provided by the cloud service provider: Compute Power & Storage.
 - It is a consumption-based model. (works on operational expenditure rather than on capital expenditure).
+
+
 **This consumption-based model has many benefits, including:**
 1. No upfront(paid in advance) costs.
 2. No need to purchase and manage costly infrastructure that users might not use to its fullest potential.
