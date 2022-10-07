@@ -39,6 +39,7 @@ Examples: Google App Engine, Dropbox etc.
 #### 2. Private Cloud (Internal/ Corporate Cloud)
 - services accessible within a  organisation i.e it belongs to a specific organisation.
 - can be managed by organisation, 3rd party also.
+
 ![image](https://user-images.githubusercontent.com/74251229/193393184-9bdff749-4c0c-425c-824b-692f6eb8449a.png)
 
 ##### Advantages:
@@ -70,6 +71,7 @@ Examples: Google App Engine, Dropbox etc.
 #### 4. Community Cloud
 - allows services to be accessible by a group of several organisations to share the information between the organisation & a specific community.
 - owned, managed & operated by 1 or more organisations in the community or 3rd party.
+
 ![image](https://user-images.githubusercontent.com/74251229/193393245-c401d2b4-14e3-4277-99b1-7540693518e6.png)
 
 ##### Advantages:
