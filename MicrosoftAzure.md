@@ -102,17 +102,24 @@ It helps to run VMware workloads, that is previously in private cloud environmen
 
 ### Benefits of Cloud
 1. Scalability (ability to handle demand)
-- Vertical Scaling: power/capabilities of resources can be scaled up (either automatically or manually) or scaled down as per requirement.
-- Horizontal Scaling: number of resources/ virtual machines/ containers can be scaled out (increase) or scaled in (decrease).
+- Vertical Scaling: power/capabilities of resources can be scaled up (either automatically or manually) or scaled down as per requirement. e.g adding more CPU/RAM to the virtual machine or lowering the CPU/RAM specifications. 
+- Horizontal Scaling: number of resources/ virtual machines/ containers can be scaled out (increase) or scaled in (decrease). 
 
 2. Availability (High Uptime)
 - available (Uptime)
 - Not availbale (Downtime)
+
+
 It is not possible to have 100 percent uptime because when we experienced a steep jump in demand, we need to use back up servers but we need to integrate which takes time atleast 1 minute. but we can have 99.9 percent.
 
 For each service, there is a service level agreement which can be different for each service provided by a cloud service provider.
 
 
-3. 
+3. Reliability (ability to recover from failurs and continue to function)
+Using decentralised design, the cloud naturaly supports a reliable and resilent infrastructure. With the global scale, event if one region has a catastrophic event other regions are still up and running.
+
+4. Predictability (forecasting the performance and cost)
+- Performance predictability focus on predicting the resources needed to deliver a positive experience to the customers. Autoscaling, load balancing and high availablity supports performance predictability. If you suddenly need more resources, autoscaling can deploy additional resources to meet the demand, and then scale back when the demand drops. Or if the traffic is heavily focused on one area, load balancing will help redirect some of the overload to less stressed areas.
+- Cost predictability is focused on predicting the cost of the cloud spend. With the cloud, one can monitor, analyse trends and patterns of usage, predict future cost and adjust resources as needed. Also some tools can be used to get an estimate of potential cloud spend e.g pricing calculator and total cost of ownership (TCO).
 
 
