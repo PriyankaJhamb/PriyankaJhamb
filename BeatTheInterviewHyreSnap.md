@@ -17,7 +17,7 @@
     - A: Action
     - R: Result (Quantify Result To show Impact)
   - Convert it into the Accomplishment
-  - Formula (Action verb , measured by , by using which technical skill)  
+  - Formula (Action verb , measured by , by using which technical skill)  [No pronouns and No claim without measured result]
   
 - Experience
 
