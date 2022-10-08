@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🔭 I’m currently working on [e-Transcript Management System using Blockchain](https://github.com/Amanjot726/E-Transcript_Management_System_using_Blockchain)
+- 🔭 I’m currently working on [e-Transcript Management System using Blockchain](https://github.com/Amanjot726/E-Transcript_Management_System_using_Blockchain).
 
-- 🌱 I’m currently learning **Data Structure in C++**
+- 🌱 I’m currently learning **Data Structures and Algorithms in C++**.
 
 - 🔭 I’m currently doing my internship of Data Science from Sabudh Foundation.
 
