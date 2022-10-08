@@ -15,7 +15,7 @@
   - C.A.R. 
   - C: Challenge
   - A: Action
-  - R: Result
+  - R: Result (Quantify Result To show Impact)
   
 - Experience
 
