@@ -118,7 +118,7 @@
 <h2 align="center" > Reach me on:          <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/priyanka-jhamb-81323b1a9"> <img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/linkedin.png?raw=true" height="40" width="40"></a>
-<a href="https://www.instagram.com/beautiful_life_journey/"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/instagram.png?raw=true" height="40" width="40"></a>
+<a href="https://www.instagram.com/jhamb303/"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/instagram.png?raw=true" height="40" width="40"></a>
 <a href="https://www.facebook.com/priyanka.jhamb.16/"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/facebook.png?raw=true" height="40" width="40"></a>
 <a href="https://stackoverflow.com/users/15264654/priyanka"><img src="https://github.com/PriyankaJhamb/PriyankaJhamb/blob/main/images/stackoverflow.png?raw=true" height="40" width="160"></a>"
 
