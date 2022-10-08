@@ -13,7 +13,7 @@
 - Beating the 7-second test by the HR
   - The magic of accomplishments
   - C.A.R. 
-    - C: Challenge
+    - C: Challenge /Situation /Task
     - A: Action
     - R: Result (Quantify Result To show Impact)
   - Convert it into the Accomplishment
