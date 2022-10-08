@@ -23,3 +23,6 @@
 - Kruskal Algorithm
 - Kandane's Algorithm
 - Sliding Window Technique
+
+## Lovely Questions
+- Linked List clone with next and random pointers
