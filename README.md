@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in C++**.
 
-- 🔭 I’m currently doing my internship of Data Science from Sabudh Foundation.
-
 - 👯 I’m looking to collaborate on Design Thinking, Web Development, App Development and Data Science Projects.
 
 - 💬 Ask me about **my personal experiences**.
