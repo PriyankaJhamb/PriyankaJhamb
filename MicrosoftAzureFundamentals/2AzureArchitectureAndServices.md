@@ -52,8 +52,10 @@ It is a global cloud provider.
     - China East, China North, and more: These regions are available through a unique partnership between Microsoft and 21Vianet, whereby Microsoft doesn't directly maintain the datacenters.
 
 #### Management Infrastructure
-- An Azure account can be in a directory/Azure Active Directory which contains all the information regarding subscriptions by using a management group.
-- **Resources** logically Grouped into **Resource Groups** logically Grouped into **Subscriptions** logically Grouped into **Management Group**
+- An Azure account is identity in a directory/Azure Active Directory which contains all the information regarding subscriptions by using a management group.
+
+| ```Resources``` logically Grouped into ```Resource Groups``` logically Grouped into ```Subscriptions``` logically Grouped into ```Management Group``` |
+
 Where Resources can be VM, Database etc, subscriptions are a unit of management, billing, and scale. 
 - Resource Groups cannot be nested.
 - When you apply an action to a resource group, that action will apply to all the resources within the resource group.
