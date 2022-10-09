@@ -22,6 +22,24 @@
   
 - Experience
 
+### Interview
+- Sell yourself. Talk in the favor of Interviewer.
+- Interviewer wants to know three answers:
+  1. Can you do the job well? (Technical and Leadership Competencies)
+  2. Will you do the job well? (Behavioral Competencies)
+  3. Will you fit in with the company culture, values and mission?
+- Types of Interview Questions:
+  - Behavioral
+    - Verification Qs
+    - Competency-based Qs
+    - Technical Qs
+    - Case Qs
+  - Situational 
+    - Case Qs
+    - Hypothetical Situation Qs
+    - Opinion Qs
+    - Wildcard Qs
+
 #### References
 - [31 Core Competencies](https://workforce.com/news/31-core-competencies-explained)
 - [Courses with certificates](classcentral.com/subjects/)
