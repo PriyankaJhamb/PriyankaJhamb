@@ -50,3 +50,29 @@ It is a global cloud provider.
   - Azure sovereign regions include:
     - US DoD Central, US Gov Virginia, US Gov Iowa and more: These regions are physical and logical network-isolated instances of Azure for U.S. government agencies and partners. These datacenters are operated by screened U.S. personnel and include additional compliance certifications.
     - China East, China North, and more: These regions are available through a unique partnership between Microsoft and 21Vianet, whereby Microsoft doesn't directly maintain the datacenters.
+
+#### Management Infrastructure
+- An Azure account can be in a directory/Azure Active Directory which contains all the information regarding subscriptions by using a management group.
+- **Resources** logically Grouped into **Resource Groups** logically Grouped into **Subscriptions** logically Grouped into **Management Group**
+Where Resources can be VM, Database etc, subscriptions are a unit of management, billing, and scale. 
+- Resource Groups cannot be nested.
+- When you apply an action to a resource group, that action will apply to all the resources within the resource group.
+
+![image](https://user-images.githubusercontent.com/74251229/194743189-9925662c-732b-4c8e-b6ef-dd95fbbea2d4.png)
+- There are two types of subscription boundaries that you can use:
+  - Billing boundary: This subscription type determines how an Azure account is billed for using Azure. You can create multiple subscriptions for different types of billing requirements. Azure generates separate billing reports and invoices for each subscription so that you can organize and manage costs.
+  - Access control boundary: Azure applies access-management policies at the subscription level, and you can create separate subscriptions to reflect different organizational structures. An example is that within a business, you have different departments to which you apply distinct Azure subscription policies. This billing model allows you to manage and control access to the resources that users provision with specific subscriptions.
+
+![image](https://user-images.githubusercontent.com/74251229/194743201-78cab19e-9036-4672-b18c-74538bd0ae42.png)
+- if you’re dealing with multiple applications, multiple development teams, in multiple geographies, then it will be difficult to organise the n number of subscriptions, so we can make management groups and also nested it when required.
+- One can apply governance conditions to the management groups.
+- All subscriptions within a management group automatically inherit the conditions applied to the management group, the same way that resource groups inherit settings from subscriptions and resources inherit from resource groups.
+- Some examples of how you could use management groups might be:  Create a hierarchy that applies a policy, Provide user access to multiple subscriptions.
+- Important facts about management groups:
+  - 10,000 management groups can be supported in a single directory.
+  - A management group tree can support up to six levels of depth. This limit doesn't include the root level or the subscription level.
+  - Each management group and subscription can support only one parent.
+![image](https://user-images.githubusercontent.com/74251229/194743219-e5ee79f8-1e1c-487f-ac9a-022c0ebc8233.png)
+
+
+
