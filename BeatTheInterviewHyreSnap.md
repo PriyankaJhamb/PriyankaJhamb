@@ -23,6 +23,8 @@
 - Experience
 
 ### Interview
+|LISTEN-> PAUSE -> SPEAK |
+|-------------------|
 - Sell yourself. Talk in the favor of Interviewer.
 - Interviewer wants to know three answers:
   1. Can you do the job well? (Technical and Leadership Competencies)
@@ -39,6 +41,7 @@
     - Hypothetical Situation Qs
     - Opinion Qs
     - Wildcard Qs
+- 
 
 #### References
 - [31 Core Competencies](https://workforce.com/news/31-core-competencies-explained)
