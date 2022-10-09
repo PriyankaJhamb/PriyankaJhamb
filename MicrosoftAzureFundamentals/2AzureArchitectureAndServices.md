@@ -21,6 +21,6 @@ Azure provides more than 100 services that enable you to do everything from runn
 - Command: exit {to come out of Azure CLI interactive mode. }
 
 ### The core architectural components of Azure may be broken down into two main groupings: the physical infrastructure, and the management infrastructure.
-### [Tour of Microsoft Data Centers](https://news.microsoft.com/stories/microsoft-datacenter-tour/)
+### [Tour of Microsoft Data Centers](https://infrastructuremap.microsoft.com/)
 
 #### Physical Infrastructure
