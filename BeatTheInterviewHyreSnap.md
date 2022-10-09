@@ -41,7 +41,7 @@
     - Hypothetical Situation Qs
     - Opinion Qs
     - Wildcard Qs
-- 
+
 
 #### References
 - [31 Core Competencies](https://workforce.com/news/31-core-competencies-explained)
