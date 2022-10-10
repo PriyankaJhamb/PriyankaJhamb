@@ -41,7 +41,7 @@
     - Hypothetical Situation Qs
     - Opinion Qs
     - Wildcard Qs
- - Tell me about yourself.
+- Tell me about yourself.
   - Use I-Statements
   - Show relevant accomplishments and strengths
   - Highlight that you solve the company's needs
