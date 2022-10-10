@@ -46,7 +46,6 @@
   - Show relevant accomplishments and strengths
   - Highlight that you solve the company's needs
   - Sell yourself
-
   - Always show
     - Are you interested in the job?
     - Have you done your research?
