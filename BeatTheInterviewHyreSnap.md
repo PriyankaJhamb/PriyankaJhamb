@@ -41,6 +41,23 @@
     - Hypothetical Situation Qs
     - Opinion Qs
     - Wildcard Qs
+ - Tell me about yourself.
+  - Use I-Statements
+  - Show relevant accomplishments and strengths
+  - Highlight that you solve the company's needs
+  - Sell yourself
+  
+  - Always show
+    - Are you interested in the job?
+    - Have you done your research?
+    - The first Impression! 
+  - Why are you fit for the job?
+    - Do you have self-belief that you can do the job?
+    - Do you have the passion in doing the job?
+    - What makes you **unique and capable** to do the job? 
+    - Identify the top three competencies required for the job
+    - Demonstrate that you have these competencies
+    - Show passion to grow with the company.
 
 
 #### References
