@@ -83,10 +83,31 @@ Where Resources can be VM, Database etc, subscriptions are a unit of management,
 - You can also do grouping of VMs to provide the high availability, scalability and redundancy.
 - Azure manage Grouping of VMs with features 
   - Scale sets: help us to provide the service of grouping the virtual machines and configure it identically, provide load balancers to use VMs efficiently and also it automatically increase or decrease the number of VMs according to the demand or we can also defined the schedule when it needs to scale.
-  - Availablity sets: 
+  - Availablity sets: Availability sets are designed to ensure that VMs stagger updates and have varied power and network connectivity, preventing you from losing all your VMs with a single network or power failure.
+    - Update domain: The update domain groups VMs that can be rebooted at the same time. This allows you to apply updates while knowing that only one update domain grouping will be offline at a time. All of the machines in one update domain will be updated. An update group going through the update process is given a 30-minute time to recover before maintenance on the next update domain starts.
+    - Fault domain: The fault domain groups your VMs by common power source and network switch. By default, an availability set will split your VMs across up to three fault domains. This helps protect against a physical power or networking failure by having VMs in different fault domains (thus being connected to different power and networking resources).
+- Examples of when to use VMs:
+  - **During testing and development.** VMs provide a quick and easy way to create different OS and application configurations. Test and development personnel can then easily delete the VMs when they no longer need them.
+  - **When running applications in the cloud.**: need to handle fluctuations in demand. 
+  - **When extending your datacenter to the cloud:** An organization can extend the capabilities of its own on-premises network by creating a virtual network in Azure and adding VMs to that virtual network.
+  - **During disaster recovery:**  If a primary datacenter fails, you can create VMs running on Azure to run your critical applications and then shut them down when the primary datacenter becomes operational again.
+  
+### Move to the cloud with VMs
+- move from a physical server to the cloud (also known as lift and shift). 
+- You can create an image of the physical server and host it within a VM with little or no changes. 
+- Just like a physical on-premises server, you must maintain the VM: you’re responsible for maintaining the installed OS and software.
+
+### VM Resources
+When you provision a VM, you’ll also have the chance to pick the resources that are associated with that VM, including:
+
+- Size (purpose, number of processor cores, and amount of RAM)
+- Storage disks (hard disk drives, solid state drives, etc.)
+- Networking (virtual network, public IP address, and port configuration)
+
+### Create an Azure Virtual Machine
 
 ### Reference
-[https://www.pragimtech.com/courses/learn-azure-from-scratch/](https://www.pragimtech.com/courses/learn-azure-from-scratch/)
-
+- [https://www.pragimtech.com/courses/learn-azure-from-scratch/](https://www.pragimtech.com/courses/learn-azure-from-scratch/)
+- [https://www.pragimtech.com/blog/azure/azure-availability-set/](https://www.pragimtech.com/blog/azure/azure-availability-set/)
 
 
