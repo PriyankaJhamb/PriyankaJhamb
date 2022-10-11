@@ -105,6 +105,32 @@ When you provision a VM, you’ll also have the chance to pick the resources tha
 - Networking (virtual network, public IP address, and port configuration)
 
 ### Create an Azure Virtual Machine
+In this exercise, you create an Azure virtual machine (VM) and install Nginx, a popular web server.
+
+You could use the Azure portal, the Azure CLI, Azure PowerShell, or an Azure Resource Manager (ARM) template.
+
+In this instance, you're going to use the Azure CLI.
+ 
+ 
+ 1. From Cloud Shell, run the following az vm create command to create a Linux VM:
+ ```
+ az vm create \
+  --resource-group learn-a1739492-ec38-44f1-8089-74c46bc325a8 \
+  --name my-vm \
+  --image UbuntuLTS \
+  --admin-username azureuser \
+```
+2. Run the following az vm extension set command to configure Nginx on your VM:
+```
+az vm extension set \
+  --resource-group learn-a1739492-ec38-44f1-8089-74c46bc325a8 \
+  --vm-name my-vm \
+  --name customScript \
+  --publisher Microsoft.Azure.Extensions \
+  --version 2.1 \
+  --settings '{"fileUris":["https://raw.githubusercontent.com/MicrosoftDocs/mslearn-welcome-to-azure/master/configure-nginx.sh"]}' \
+  --protected-settings '{"commandToExecute": "./configure-nginx.sh"}'
+```
 
 ### Reference
 - [https://www.pragimtech.com/courses/learn-azure-from-scratch/](https://www.pragimtech.com/courses/learn-azure-from-scratch/)
