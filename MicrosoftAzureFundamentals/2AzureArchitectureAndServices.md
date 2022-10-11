@@ -76,5 +76,17 @@ Where Resources can be VM, Database etc, subscriptions are a unit of management,
   - Each management group and subscription can support only one parent.
 ![image](https://user-images.githubusercontent.com/74251229/194743219-e5ee79f8-1e1c-487f-ac9a-022c0ebc8233.png)
 
+### Azure Virtual Machines
+- like a Virtual Server, it provides infrastructure as a service.
+- you can have full control on operating system
+- You can configure the VM or you can use prconfigured image of configuration using the option.
+- You can also do grouping of VMs to provide the high availability, scalability and redundancy.
+- Azure manage Grouping of VMs with features 
+  - Scale sets: help us to provide the service of grouping the virtual machines and configure it identically, provide load balancers to use VMs efficiently and also it automatically increase or decrease the number of VMs according to the demand or we can also defined the schedule when it needs to scale.
+  - Availablity sets: 
+
+### Reference
+[https://www.pragimtech.com/courses/learn-azure-from-scratch/](https://www.pragimtech.com/courses/learn-azure-from-scratch/)
+
 
 
