@@ -75,6 +75,11 @@ Let the functional dependency is X-> Y. Here X should be super key or candidate 
 #### 5th Normal Form [(Link)](https://www.javatpoint.com/dbms-fifth-normal-form)
 
 
+### How to delete duplicate records from a table in SQL 
+
+[https://youtu.be/Wlb4YKnZ75k](https://youtu.be/Wlb4YKnZ75k)
+
+
 
 
 
