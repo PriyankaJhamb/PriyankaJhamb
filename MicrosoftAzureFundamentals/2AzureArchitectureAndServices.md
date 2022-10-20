@@ -132,7 +132,11 @@ az vm extension set \
   --protected-settings '{"commandToExecute": "./configure-nginx.sh"}'
 ```
 
-## Azure Virtual Desktop
+## Azure Virtual Desktop: 
+Azure Virtual Desktop is a desktop and application virtualization service that runs on the cloud. It enables you to use a cloud-hosted version of Windows from any location.
+
+
+
 
 ### Reference
 - [https://www.pragimtech.com/courses/learn-azure-from-scratch/](https://www.pragimtech.com/courses/learn-azure-from-scratch/)
