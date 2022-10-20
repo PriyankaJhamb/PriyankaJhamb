@@ -132,6 +132,8 @@ az vm extension set \
   --protected-settings '{"commandToExecute": "./configure-nginx.sh"}'
 ```
 
+## Azure Virtual Desktop
+
 ### Reference
 - [https://www.pragimtech.com/courses/learn-azure-from-scratch/](https://www.pragimtech.com/courses/learn-azure-from-scratch/)
 - [https://www.pragimtech.com/blog/azure/azure-availability-set/](https://www.pragimtech.com/blog/azure/azure-availability-set/)
