@@ -135,6 +135,12 @@ az vm extension set \
 ## Azure Virtual Desktop: 
 Azure Virtual Desktop is a desktop and application virtualization service that runs on the cloud. It enables you to use a cloud-hosted version of Windows from any location.
 
+## Virtual Machine VS Containers
+| Virtual Machines | Containers |
+|----------------|------------|
+| on hardware level | on software level |
+![image](https://user-images.githubusercontent.com/74251229/197882959-8165f03f-b07b-48c8-b8b8-ad54d9ea456b.png)
+
 
 
 
