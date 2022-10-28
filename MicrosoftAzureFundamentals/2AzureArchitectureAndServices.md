@@ -143,12 +143,13 @@ Azure Virtual Desktop is a desktop and application virtualization service that r
 
 ## Public VS Private IP
 Default Gateway: public address of router
-
-
 ![image](https://user-images.githubusercontent.com/74251229/197882959-8165f03f-b07b-48c8-b8b8-ad54d9ea456b.png)
 
 
+## Azure Service Plan
+![image](https://user-images.githubusercontent.com/74251229/198452861-e3c76386-6bc7-4648-8a80-71a3b91bebca.png)
 
+## Azure Pricing Tier
 
 ### Reference
 - [https://www.pragimtech.com/courses/learn-azure-from-scratch/](https://www.pragimtech.com/courses/learn-azure-from-scratch/)
