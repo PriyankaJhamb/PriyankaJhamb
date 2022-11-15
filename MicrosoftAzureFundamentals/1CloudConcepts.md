@@ -86,7 +86,7 @@ Examples: Google App Engine, Dropbox etc.
 
 ##### Disadvantages:
 1. Managing is difficult/complex because there are more than 1 type of deployment model.
-2. Maintainence: dependency on infrastructure 
+2. Maintainence: dependency on infrastructure.
 
 #### 4. Community Cloud
 - allows services to be accessible by a group of several organisations to share the information between the organisation & a specific community.
@@ -100,7 +100,7 @@ Examples: Google App Engine, Dropbox etc.
 3. More secure than public cloud but less than private cloud.
 ##### Disadvantages:
 1. consistent maintainence cost
-2. Increased cost as compare to public loud.
+2. Increased cost as compare to public cloud.
 
 ### Multi-Cloud
 
