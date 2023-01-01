@@ -63,7 +63,7 @@ Examples: Google App Engine, Dropbox etc.
 ![image](https://user-images.githubusercontent.com/74251229/193393184-9bdff749-4c0c-425c-824b-692f6eb8449a.png)
 
 ##### Advantages:
-1. Less feasibility: It is accessible within an organisation, so the area of operations is limited.
+1. Less accessible/ location dependent: It is accessible within an organisation, so the area of operations is limited.
 3. High security
 3. Data Privacy
 4. More customizable.
