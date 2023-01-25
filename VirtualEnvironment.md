@@ -2,3 +2,7 @@
 - virtualenv environmentName
 - source env/bin/activate
 - deactivate
+- pip freeze > requirements.txt
+- pip install -r ./requirements.txt 
+- virtualenv --system-site-packages env2  (if you want same packages in your new virtual environment 2)
+- pip install packageName==version
