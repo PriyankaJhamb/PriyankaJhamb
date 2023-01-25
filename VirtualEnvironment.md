@@ -1,0 +1,4 @@
+pip install virtualenv
+virtualenv environmentName
+source env/bin/activate
+deactivate
