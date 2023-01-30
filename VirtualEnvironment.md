@@ -1,5 +1,6 @@
 - pip install virtualenv 
 - virtualenv environmentName
+- virtualenv -p python3.9 environmentName
 - source env/bin/activate
 - deactivate
 - pip freeze > requirements.txt
