@@ -10,8 +10,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🔭 I’m currently working as a **Data Engineer Intern at Stylumia**.
-- 
-- 🌱 I’m currently learning **Data Structures and Algorithms in C++**.
+<!-- - 
+- 🌱 I’m currently learning **Data Structures and Algorithms in C++**. -->
 
 <!-- - 👯 I’m looking to collaborate on Design Thinking, Web Development, App Development and Data Science Projects. -->
 
