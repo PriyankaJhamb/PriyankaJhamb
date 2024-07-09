@@ -40,6 +40,7 @@
 ### MY favorite blogs:
 - [17 Terminal Commands ](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/)
 - [All about Compiler](https://www.guru99.com/compiler-design-tutorial.html#:~:text=Application%20of%20Compilers,-Compiler%20design%20helps&text=Support%20optimization%20for%20Computer%20Architecture,with%20other%20Software%20Productivity%20Tools.)
+- [7 Effective Habits of Programmers](https://dev.to/tentanganak/7-habits-that-programmers-must-have-1dfj)
 
 <div align="center">
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>  
